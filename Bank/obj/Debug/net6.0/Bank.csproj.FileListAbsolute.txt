@@ -1,0 +1,14 @@
+C:\Users\aadedayo\source\repos\Bank\Bank\bin\Debug\net6.0\Bank.exe
+C:\Users\aadedayo\source\repos\Bank\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\Users\aadedayo\source\repos\Bank\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\Users\aadedayo\source\repos\Bank\Bank\bin\Debug\net6.0\Bank.dll
+C:\Users\aadedayo\source\repos\Bank\Bank\bin\Debug\net6.0\Bank.pdb
+C:\Users\aadedayo\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aadedayo\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\aadedayo\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\aadedayo\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\aadedayo\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.dll
+C:\Users\aadedayo\source\repos\Bank\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\Users\aadedayo\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.pdb
+C:\Users\aadedayo\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\Users\aadedayo\source\repos\Bank\Bank\obj\Debug\net6.0\ref\Bank.dll
